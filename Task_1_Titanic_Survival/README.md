@@ -1,4 +1,4 @@
-#Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This project was completed as part of the CodSoft Data Science Virtual Internship.  
 The goal of this task is to predict whether a passenger survived the Titanic disaster using basic machine learning techniques.
