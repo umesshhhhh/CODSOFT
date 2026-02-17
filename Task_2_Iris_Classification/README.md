@@ -1,12 +1,18 @@
-.
+Iris Flower Classification
 
-📌 Problem Statement
+This project was completed as part of the CodSoft Data Science Virtual Internship.
+The goal of this task is to classify Iris flower species using basic machine learning techniques.
 
-Using the Iris dataset, predict the species of a flower by analyzing features such as sepal length, sepal width, petal length, and petal width.
+About the Project
 
-📂 Dataset
+The Iris dataset is a well-known dataset used for beginner-level machine learning projects.
+In this task, I used flower measurements such as sepal length, sepal width, petal length, and petal width to build a model that predicts the species of a flower.
 
-The dataset contains measurements of Iris flowers, including:
+The focus of this project was not just accuracy, but understanding the complete data science workflow for multi-class classification.
+
+Dataset
+
+The dataset includes the following key features:
 
 Sepal Length
 
@@ -18,11 +24,11 @@ Petal Width
 
 Species (target variable)
 
-The dataset is provided in CSV format and is included in this repository.
+The dataset is provided in CSV format and is included in this folder.
 
-⚙️ Approach
+What I Did
 
-The following steps were followed in this project:
+The project was completed using the following steps:
 
 Loaded and explored the dataset
 
@@ -30,15 +36,15 @@ Visualized feature relationships to understand class separation
 
 Separated input features and target variable
 
-Encoded categorical species labels into numerical form
+Encoded categorical labels into numerical form
 
-Split the data into training and testing sets
+Split the dataset into training and testing sets
 
-Trained a Logistic Regression classification model
+Trained a Logistic Regression model
 
 Evaluated the model using accuracy and classification metrics
 
-🛠️ Tools & Libraries
+Tools Used
 
 Python
 
@@ -52,23 +58,24 @@ Matplotlib
 
 Seaborn
 
-📊 Results
+Results
 
-Model Used: Logistic Regression
+Model: Logistic Regression
 
-Accuracy Achieved: 100%
+Accuracy: 100%
 
-The high accuracy is expected due to the clean and well-separated nature of the Iris dataset.
+The model achieved high accuracy due to the clean and well-separated nature of the Iris dataset.
 
-✅ Conclusion
+Conclusion
 
 This project demonstrates a complete multi-class classification workflow, from data visualization and preprocessing to model training and evaluation.
-It highlights how machine learning algorithms can accurately classify structured data when clear feature patterns exist.
 
-📁 Files in This Folder
+It highlights how structured numerical features can be used to build accurate and interpretable machine learning models.
 
-iris.ipynb – Jupyter notebook containing the full implementation
+Files in This Folder
 
-Iris.csv – Dataset used for training and testing
+Iris.ipynb – Complete implementation of the project
 
-README.md – Project documentation
+IRIS.csv – Dataset used
+
+README.md – Project description
