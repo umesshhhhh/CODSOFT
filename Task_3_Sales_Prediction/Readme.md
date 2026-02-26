@@ -25,7 +25,7 @@ Sales (target variable)
 
 All features are numerical and represent advertising budget (in thousands of dollars) and resulting sales.
 
-What I Did
+#What I Did
 
 The project was completed using the following steps:
 
@@ -45,7 +45,7 @@ Evaluated the model using MAE, MSE, and R² score
 
 Interpreted model coefficients to extract marketing insights
 
-Tools Used
+#Tools Used
 
 Python
 
@@ -73,7 +73,7 @@ The model explains approximately 90% of the variation in sales, indicating a str
 
 Radio advertising showed the highest impact on sales, while Newspaper had minimal influence.
 
-Conclusion
+#Conclusion
 
 This project helped me understand how regression models work and how they can be used to support real-world business decisions.
 
