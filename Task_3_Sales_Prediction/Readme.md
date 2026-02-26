@@ -1,9 +1,9 @@
-Sales Prediction
+#Sales Prediction
 
 This project was completed as part of the CodSoft Data Science Virtual Internship.
 The goal of this task is to predict product sales based on advertising expenditure using basic regression techniques.
 
-About the Project
+#About the Project
 
 The Advertising dataset is a widely used dataset for understanding regression models in machine learning.
 
@@ -11,7 +11,7 @@ In this task, I used advertising spending data from TV, Radio, and Newspaper cha
 
 The focus of this project was not just prediction accuracy, but understanding the complete regression workflow and interpreting model results for business insights.
 
-Dataset
+#Dataset
 
 The dataset includes the following key features:
 
